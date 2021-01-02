@@ -17,6 +17,6 @@ Go语言，即Go Language ，简称Golang,主要的职业方向为
 
 ## 笔记列表
 
-1. [Windows 下搭建Go开发环境](./Windows 下搭建Go开发环境.md)
+1. [Windows 下搭建Go开发环境](./Windows下搭建Go开发环境.md)
 2. [第一个程序](./第一个程序.md)
 
